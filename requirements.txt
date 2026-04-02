@@ -1,0 +1,21 @@
+# Core
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Cheminformatics
+rdkit
+chembl-webresource-client>=0.10.0
+
+# Machine Learning
+xgboost>=1.7.6
+
+# Web app
+streamlit>=1.26.0
+matplotlib>=3.7.1
+seaborn>=0.12.2
+plotly>=5.15.0
+
+# Optional for batch prediction and Excel support
+openpyxl>=3.1.2
